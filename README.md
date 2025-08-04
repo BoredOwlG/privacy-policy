@@ -1,48 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2299.3">
-  <style type="text/css">
-    p.p1 {margin: 12.0px 0.0px 6.0px 0.0px; text-align: center; font: 28.0px Helvetica}
-    p.p2 {margin: 12.0px 0.0px 6.0px 0.0px; text-align: center; font: 16.0px Helvetica}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'}
-    p.p5 {margin: 0.0px 0.0px 0.0px 36.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
-    p.p6 {margin: 0.0px 0.0px 7.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px}
-    p.p7 {margin: 7.0px 0.0px 6.0px 0.0px; font: 14.0px Times}
-    p.p8 {margin: 0.0px 0.0px 7.0px 0.0px; font: 12.0px 'Times New Roman'}
-    p.p9 {margin: 6.0px 0.0px 6.0px 0.0px; font: 12.0px Times}
-    p.p10 {margin: 0.0px 0.0px 7.0px 0.0px; font: 12.0px 'Times New Roman'; color: #000080}
-    p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'; color: #000080}
-    p.p12 {margin: 0.0px 0.0px 7.0px 0.0px; text-align: center; font: 12.0px 'Times New Roman'}
-    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Times New Roman'}
-    li.li8 {margin: 0.0px 0.0px 7.0px 0.0px; font: 12.0px 'Times New Roman'}
-    span.s1 {font: 12.0px Helvetica}
-    span.s2 {text-decoration: underline ; color: #000080}
-    span.s3 {text-decoration: underline}
-    span.s4 {color: #000000}
-    span.Apple-tab-span {white-space:pre}
-    ul.ul1 {list-style-type: disc}
-<link href="http://www.bored-owl.com/wp-content/uploads/custom-css-js/privacycss.css" rel="stylesheet" type="text/css">
-  </style>
-</head>
-<body class="loader">
-
-<div class="pointer" id="pointer">
-			<i class="fas fa-long-arrow-alt-right"></i>
-			<i class="fas fa-search"></i>
-			<i class="fas fa-link"></i>
-		</div><!-- pointer end -->
-
-<!-- to-top-btn start -->
-		<a class="to-top-btn pointer-small" href="#up">
-			  <span class="to-top-arrow"></span>		    
-		</a><!-- to-top-btn end -->
-
 <div style="overflow-y: scroll; height:100%;">
 <p class="p1"><b>Privacy Policy</b></p>
 <p class="p2"><b>for the app from</b></p>
@@ -70,8 +25,8 @@
 <p class="p4">Responsible provider of this website in the sense of data protection law is:</p>
 <p class="p3"><br></p>
 <p class="p4"><i>Simon Werner Softwareentwicklung<span class="Apple-converted-space"> </span></i></p>
-<p class="p4"><i>Weiherweg 4 A<span class="Apple-converted-space"> </span></i></p>
-<p class="p4"><i>89431 Bächingen an der Brenz<span class="Apple-converted-space"> </span></i></p>
+<p class="p4"><i>Kettelerweg 19<span class="Apple-converted-space"> </span></i></p>
+<p class="p4"><i>89537 Giengen<span class="Apple-converted-space"> </span></i></p>
 <p class="p4"><i>Germany</i></p>
 <p class="p4"><i>Telephone: +49 (0) 152 - 55304363<span class="Apple-converted-space"> </span></i></p>
 <p class="p4"><i>E-Mail: boredowlgames@gmail.com</i></p>
